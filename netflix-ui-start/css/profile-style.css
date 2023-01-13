@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(20,20,20);
+    color: white;
+}
+
+nav img {
+    height: 45px;
+    width: 106px;
+    margin-top: 9px;
+    margin-left: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+hr {
+    background-color: white;
+
+}
+
+.container {
+    background-image: url(http://occ-0-300-299.1.nflxso.net/dnm/api/v6/K6hjPJd6cR6FpVELC5Pd6ovHRSk/AA…y_keCAHeXmG_SoqLD8SXYistPtesdqIjcsGE-tHO8RR92n7NyxZpqcFS80YfbRFz.png?r=229);
+}

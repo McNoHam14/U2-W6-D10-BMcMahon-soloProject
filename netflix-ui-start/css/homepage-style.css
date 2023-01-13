@@ -1,0 +1,70 @@
+body {
+    background-color: rgb(20,20,20);
+    color: white;
+}
+
+/* NAVBAR */
+
+/* nav {
+    background-color: rgb(20,20,20);
+} */
+
+.carousel-container {
+    height: 300px;
+    width: 300px;
+}
+
+.carousel-item {
+    object-fit:cover
+}
+
+.icons-modify {
+    color: white;
+    border: 1px white solid;
+}
+
+.nav-right-container {
+    display: flex;
+    align-items: center;
+}
+
+/* li.nav-item::marker {
+    display: none;
+} */
+
+.trending-now-section {
+    padding: 25px;
+}
+
+.type-title-genre-dropdown {
+    display: flex;
+    margin: 0 -5px;
+}
+
+.type-title-genre-dropdown h2 {
+    margin: 0 18px;
+}
+
+d-flex {
+    width: 100%;
+}
+
+.view-mode {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.btn {
+    border-radius: 0;
+    background-color: inherit;
+}
+
+h3 {
+    margin-left: 35px;
+}
+
+.card-body {
+    display: none;
+}
+
+/* trending now, watch again & new releases color rgb(230,230,230) */
